@@ -92,48 +92,48 @@
   if (pick) {
     var GAMES = {
       wz: {
-        img: "https://hack-gaming.fr/unreal.webp", alt: "cheat warzone",
+        img: "https://hack-gaming.cz/unreal.webp", alt: "cheat warzone",
         count: "3 balíčky k dispozici",
         name: "Call of Duty: Black Ops 7 / Warzone",
         desc: "Aimbot, ESP, ranked spoofer a triggerbot. Na streamu 100% neviditelné.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobrazit balíčky pro Warzone →", href: "https://hack-gaming.fr/cheat-warzone.html",
+        cta: "Zobrazit balíčky pro Warzone →", href: "https://hack-gaming.cz/cheat-warzone.html",
         glow: "59,130,246"
       },
       arc: {
-        img: "https://hack-gaming.fr/arc-ghost.webp", alt: "cheat arc rider pc",
+        img: "https://hack-gaming.cz/arc-ghost.webp", alt: "cheat arc rider pc",
         count: "3 balíčky k dispozici",
         name: "ARC Raiders",
         desc: "Aimbot, ESP na hráče a roboty, ESP na loot a extrakce, triggerbot a HWID spoofer.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobrazit balíčky pro ARC Raiders →", href: "https://hack-gaming.fr/cheat-arc-rider.html",
+        cta: "Zobrazit balíčky pro ARC Raiders →", href: "https://hack-gaming.cz/cheat-arc-rider.html",
         glow: "245,158,11"
       },
       fn: {
-        img: "https://hack-gaming.fr/fn-delta.webp", alt: "cheat fortnite",
+        img: "https://hack-gaming.cz/fn-delta.webp", alt: "cheat fortnite",
         count: "2 balíčky k dispozici",
         name: "Fortnite",
         desc: "Aimbot na míru, ESP na hráče, loot i truhly, HWID spoofer + cleaner.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobrazit balíčky pro Fortnite →", href: "https://hack-gaming.fr/cheat-fortnite.html",
+        cta: "Zobrazit balíčky pro Fortnite →", href: "https://hack-gaming.cz/cheat-fortnite.html",
         glow: "139,92,246"
       },
       val: {
-        img: "https://hack-gaming.fr/valorant-maxim.webp", alt: "cheat valorant pc",
+        img: "https://hack-gaming.cz/valorant-maxim.webp", alt: "cheat valorant pc",
         count: "1 balíček k dispozici",
         name: "Valorant",
         desc: "Aimbot, ESP, triggerbot a HWID spoofer. Nedetekovatelné a 100% stream proof.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobrazit balíček pro Valorant →", href: "https://hack-gaming.fr/cheat-valorant.html",
+        cta: "Zobrazit balíček pro Valorant →", href: "https://hack-gaming.cz/cheat-valorant.html",
         glow: "255,70,85"
       },
       tk: {
-        img: "https://hack-gaming.fr/tarkov-reaper.webp", alt: "cheat tarkov pc",
+        img: "https://hack-gaming.cz/tarkov-reaper.webp", alt: "cheat tarkov pc",
         count: "1 balíček k dispozici",
         name: "Escape from Tarkov",
         desc: "Aimbot, ESP na hráče a scavy, ESP na loot a extrakce, HWID spoofer. Připraveno k nasazení.",
         price: "389 €", consoles: "🖥️ PC",
-        cta: "Zobrazit balíček pro Tarkov →", href: "https://hack-gaming.fr/cheat-tarkov.html",
+        cta: "Zobrazit balíček pro Tarkov →", href: "https://hack-gaming.cz/cheat-tarkov.html",
         glow: "166,154,70"
       }
     };

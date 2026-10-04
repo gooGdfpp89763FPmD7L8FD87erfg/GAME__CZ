@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hack-gaming.fr/sitemap.xml
+Sitemap: https://hack-gaming.cz/sitemap.xml
